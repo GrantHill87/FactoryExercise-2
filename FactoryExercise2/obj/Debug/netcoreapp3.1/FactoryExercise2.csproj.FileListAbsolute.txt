@@ -1,0 +1,14 @@
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\bin\Debug\netcoreapp3.1\FactoryExercise2.exe
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\bin\Debug\netcoreapp3.1\FactoryExercise2.deps.json
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\bin\Debug\netcoreapp3.1\FactoryExercise2.runtimeconfig.json
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\bin\Debug\netcoreapp3.1\FactoryExercise2.runtimeconfig.dev.json
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\bin\Debug\netcoreapp3.1\FactoryExercise2.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\bin\Debug\netcoreapp3.1\FactoryExercise2.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.csproj.AssemblyReference.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.AssemblyInfoInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.AssemblyInfo.cs
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.dll
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.pdb
+C:\Users\Grant\OneDrive\Desktop\Repos\FactoryExercise2\FactoryExercise2\obj\Debug\netcoreapp3.1\FactoryExercise2.genruntimeconfig.cache
